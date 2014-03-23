@@ -3,4 +3,6 @@ def big_dif(arr):
  maximum = max(arr)
  c = minimum - maximum
  return c
+
+
  
